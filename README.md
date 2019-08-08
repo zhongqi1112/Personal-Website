@@ -1,4 +1,4 @@
-# Stephen Wang Home Page
+# Blog
 
 ## Project setup
 ```

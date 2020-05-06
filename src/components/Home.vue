@@ -27,7 +27,7 @@ h1 {
 }
 .fa-icon {
   width: auto;
-  height: 2.5em;
+  height: 3.5em;
   margin: 20px 12px;
   /* You would have to include the following two lines to make this work in Safari */
   max-width: 100%;

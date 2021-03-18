@@ -1,11 +1,11 @@
 <template>
   <div>
     <h1 id="title">Stephen Wang</h1>
-    <a href="https://github.com/zhongqi1112" target="_blank"><v-icon name="brands/github" color="#6E5494"/></a>
-    <a href="https://www.linkedin.com/in/stephenzwang" target="_blank"><v-icon name="brands/linkedin" color="#0077B5"/></a>
-    <a href="https://zhongqi1112.github.io/Blog/" target="_blank"><v-icon name="brands/blogger" color="#FF5722"/></a>
+    <a href="https://github.com/stephengineer" target="_blank"><v-icon name="brands/github" color="#6E5494"/></a>
+    <a href="https://www.linkedin.com/in/stephengineer" target="_blank"><v-icon name="brands/linkedin" color="#0077B5"/></a>
+    <a href="https://stephengineer.github.io/Blog/" target="_blank"><v-icon name="brands/blogger" color="#FF5722"/></a>
     <!-- <a href="https://www.facebook.com/zhongqi1112" target="_blank"><v-icon name="brands/facebook" color="#3B5998"/></a> -->
-    <a href="https://twitter.com/zhongqi1112" target="_blank"><v-icon name="brands/twitter" color="#38A1F3"/></a>
+    <a href="https://twitter.com/stephengineers" target="_blank"><v-icon name="brands/twitter" color="#38A1F3"/></a>
     <!-- <a href="https://www.youtube.com/channel/UCQipkqMIYFWtHCVRXCftxag" target="_blank"><v-icon name="brands/youtube" color="#FF0000"/></a> -->
     <!-- <a href="https://www.instagram.com/zhongqi1112" target="_blank"><v-icon name="brands/instagram" color="#FD1D1D"/></a> -->
   </div>

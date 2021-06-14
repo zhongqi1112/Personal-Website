@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Logo" src="./assets/logo.png" width="150">
+    <img alt="Avatar" src="./assets/logo.png" width="150">
     <Home/>
   </div>
 </template>
@@ -26,6 +26,7 @@ export default {
   margin-top: 100px;
 }
 img {
+  border-radius: 50%;
   pointer-events: none;
   -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
